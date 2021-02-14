@@ -1,3 +1,3 @@
 # Supplements-API
- - Framework: Rails6
- - Database: MySQL8
+ - Framework: Rails(6.1.0)
+ - Database: MySQL(8.0)
